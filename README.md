@@ -824,23 +824,93 @@ The objective of this Power BI report is to create a visually appealing and user
 </div>
 </ul>
 
-<ol>  
 <h3><li> Sales Analysis 📈</li></h3>  
 <ul>  
   <li> Sales show consistent growth over time. </li>
   <li> Order volume increases with sales trend. </li>
   <li> Certain categories contribute major revenue. </li>
   <li> Peak sales observed in specific periods. </li>  
-  <li> .</li>  
   <br> 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+   <img src="https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Images/Power%20Bi/sales%20analysis.png"  />
+</div>
+</ul>
 
+<h3><li> Employee Analysis 🧑‍💼</li></h3>  
+<ul>  
+  <li> Employees are distributed across multiple roles. </li>
+  <li> Majority have moderate tenure (mid-level experience). </li>
+  <li> Clear hierarchical reporting structure exists. </li>
+  <br> 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+   <img src="https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Images/Power%20Bi/employee%20analyis.png"  />
+</div>
+</ul>
 
+<h3><li> Product Analysis 📦</li></h3>  
+<ul>  
+  <li> Few products contribute significantly to total sales. </li>
+  <li> Certain categories dominate revenue. </li>
+  <li> High demand products drive overall performance. </li>
+  <li> Pricing varies across suppliers and products. </li>
+  <br> 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+   <img src="https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Images/Power%20Bi/product%20analysis.png"  />
+</div>
+</ul>
 
+<h3><li> Supplier Analysis 🚚</li></h3>  
+<ul>  
+  <li> Some suppliers provide more products than others. </li>
+  <li> Pricing varies significantly across suppliers. </li>
+  <li> Suppliers are distributed across multiple regions. </li>
+  <li> Certain suppliers dominate specific product categories. </li>
+  <br> 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+   <img src="https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Images/Power%20Bi/supplier%20analysis.png"  />
+</div>
+</ul>
 
+## Dashboard Insights
 
+### Key Insights 🔑: 
 
+1. **Customer Insights 🙋‍♂️**: Major customers are concentrated in EUROPE and NORTH AMERICA.
+2. **Sales & Orders Insights 📈**: Sales show consistent growth over time. Order volume increases with sales trend. Certain categories contribute major revenue. Peak sales observed in specific periods.
+3. **Employee Insights 🧑‍💼**: Employees are distributed across multiple roles. Majority have moderate tenure (mid-level experience). Clear hierarchical reporting structure exists.
+4. **Product Insights 🛍️**: Few products contribute significantly to total sales. Certain categories dominate revenue. High demand products drive overall performance. Pricing varies across suppliers and products.
+5. **Supplier Insights 🚚**: Some suppliers provide more products than others. Pricing varies significantly across suppliers. Suppliers are distributed across multiple regions. Certain suppliers dominate specific product categories.
 
+### 🎛 Interactive Features:
 
+- Drill-through options to explore details at multiple levels.
+- Custom slicers for dynamic filtering.
+- KPIs displayed in real-time visuals.
+
+## How to Use 📋
+
+1. Download the Power BI file: `northwind_sales.pbix`
+2. Open the file in **Power BI Desktop**.
+3. Explore the dashboards and insights interactively.
+
+## File Details 📁
+
+- **File Name**: `northwind_sales.pbix` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Dashboard/northwind_sales.pbix)
+
+</details>
+
+---
+
+## Contact 📱
+
+For any queries or feedback, feel free to reach out:
+
+- **Name 👤**: Jagi Pradip Rao
+- **Email 📩**: pradip.jagi@gmail.com
+
+## 🙌 Acknowledgments
+
+A big shoutout to ACCIO JOB mentors for their helpful tutorial that guided this project.
 
 
 
