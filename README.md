@@ -724,8 +724,133 @@ ORDER BY supplier_country, avg_price DESC;
 
 ---
 
+## File Details 📁
+
+- **File Name**: `northwind_categories.sql` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Data/sql/northwind_categories.sql)
+- **File Name**: `northwind_customers.sql` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Data/sql/northwind_customers.sql)
+- **File Name**: `northwind_employees.sql` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Data/sql/northwind_employees.sql)
+- **File Name**: `northwind_order details.sql` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Data/sql/northwind_order%20details.sql)
+- **File Name**: `northwind_orders.sql` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Data/sql/northwind_orders.sql)
+- **File Name**: `northwind_products.sql` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Data/sql/northwind_products.sql)
+- **File Name**: `northwind_shippers.sql` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Data/sql/northwind_shippers.sql)
+- **File Name**: `northwind_suppliers.sql` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Data/sql/northwind_suppliers.sql)
+- **File Name**: `master_sales.sql` [Download File](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Data/sql/master_sales.sql)
+
+</details>
+
+---
+
+<details>
+    <summary>Power BI 📈</summary>
+
+# 🚢 Northwind Traders Sales Analysis in Power BI 📊
+
+This Power BI project provides a comprehensive analysis of Northwind Traders Sales Analysis and suppliers data along with that focusing on trend of category sales, shipping days and key performance indicators(KPIs) to identify and insights.
+
+## ✨ Key Features
+
+📌 **Customer Insights**: Major customers are concentrated in EUROPE and NORTH AMERICA.
+
+📌 **Sales & Orders Insights**: Sales show consistent growth over time. Order volume increases with sales trend. Certain categories contribute major revenue. Peak sales observed in specific periods.
+
+📌 **Employee Insights**: Employees are distributed across multiple roles. Majority have moderate tenure (mid-level experience). Clear hierarchical reporting structure exists.
+
+📌 **Product Insights**: Few products contribute significantly to total sales. Certain categories dominate revenue. High demand products drive overall performance. Pricing varies across suppliers and products.
+
+📌 **Supplier Insights**: Some suppliers provide more products than others. Pricing varies significantly across suppliers. Suppliers are distributed across multiple regions. Certain suppliers dominate specific product categories.
+
+---
+
+![App Screenshot](https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Images/Power%20Bi/customer%20analysis.png)
+
+---
+
+## 🛠️ Tools Used:
+
+**Power BI**: For creating dashboards, visualizations, and interactive reports.
+
+**SQL**: For querying, aggregating, and preparing data for analysis.
+
+**Excel/CSV**: For preprocessing and cleaning raw data.
+
+## 🚀 Steps in Project
+
+✔️ Requirement Gathering / Business Requirements
+
+✔️ Data Extraction
+
+✔️ Data Walkthrough
+
+✔️ Data Cleaning
+
+✔️ Data Modeling
+
+✔️ DAX Calculations
+
+✔️ Dashboard Layout Design
+
+✔️ Chart Development and Formatting
+
+✔️ Dashboard / Report Development
+
+✔️ Insights Generation
+
+✔️ Report Presentation
+
+## 🧑‍💼 Business Requirement
+
+The objective of this Power BI report is to create a visually appealing and user-friendly dashboard that communicates key performance metrics for Northwind Traders effectively. The report aims to generate insights into customer behavior, sales patterns, and employee performance to aid decision-making processes. It will cover sales analysis, customer segmentation, inventory trends, and employee performance, consolidating data from multiple tables for a comprehensive view of the company's operations. The report will empower stakeholders to make data-driven decisions by offering valuable insights and facilitating data exploration through interactive visualizations and dynamic filters. The expected impact is to revolutionize how Northwind Traders interacts with its data, enabling the company to remain competitive and drive its business forward in the wholesale market landscape.
+
+## 📈 KPI’s Requirements
+
+**1. Total Sales:** The overall revenue generated from all items sold.
+
+**2. Average Sales:** The average revenue per sale.
+
+**3. Top Products:** The top sales performing products.
+
+**4. Average Shipping Days:** The average number of days to ship the product.
+
+## 📊 Chart’s Requirements
+
+<ol>  
+<h3><li>  Customer Analysis 📅</li></h3>  
+<ul>  
+  <li> Customers are concentrated in Europe and North America.</li>  
+  <li> Majority belongs to a specific roles like sales represantative.</li>  
+  <br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+   <img src="https://github.com/Pradipjagi99/Capstone-project-1/blob/main/Images/Power%20Bi/customer%20analysis.png"  />
+</div>
+</ul>
+
+<ol>  
+<h3><li> Sales Analysis 📈</li></h3>  
+<ul>  
+  <li> Sales show consistent growth over time. </li>
+  <li> Order volume increases with sales trend. </li>
+  <li> Certain categories contribute major revenue. </li>
+  <li> Peak sales observed in specific periods. </li>  
+  <li> .</li>  
+  <br> 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
 
 
 
